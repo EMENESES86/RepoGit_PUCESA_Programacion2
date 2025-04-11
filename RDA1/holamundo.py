@@ -1,1 +1,0 @@
-print("PROGRAMACIÓN 2 PUCESA")
